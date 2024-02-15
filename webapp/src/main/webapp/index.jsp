@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning day Sravya Srinivasa 15th Feb 2024 5PM</h1>
+   <h1> Thankyou, Happy Learning day Sravya Srinivasa 15th Feb 2024 5PM 1st</h1>
 
   
 </form>
